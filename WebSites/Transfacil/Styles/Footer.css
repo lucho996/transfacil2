@@ -1,0 +1,18 @@
+﻿        footer {
+            position: relative;
+
+            margin-top: -50px;
+
+            height: 0%;
+            padding:10px 0px;
+            clear: both;
+            background: #252932;
+            text-align: center;
+            color: #fff;
+        }
+ 
+
+        .define {
+            width:960px;
+            margin:0 auto;
+        }
